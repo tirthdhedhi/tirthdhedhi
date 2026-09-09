@@ -26,8 +26,8 @@
 <!-- ===== PHASE 2: STATS ===== -->
 <img width="100%" src="https://streak-stats.demolab.com/?user=tirthdhedhi&hide_border=true&background=262624&stroke=F0EEE6&ring=CC785C&fire=D97757&currStreakLabel=CC785C&sideLabels=F0EEE6&currStreakNum=F0EEE6&sideNums=F0EEE6&dates=A89E8E&titleColor=CC785C&card_width=1180" alt="streak" />
 <br/>
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=tirthdhedhi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=CC785C&icon_color=D97757&text_color=F0EEE6&bg_color=262624&card_width=500" alt="stats" />
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=tirthdhedhi&layout=compact&langs_count=8&hide_border=true&title_color=CC785C&text_color=F0EEE6&bg_color=262624&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-weld-delta-93.vercel.app/api?username=tirthdhedhi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=CC785C&icon_color=D97757&text_color=F0EEE6&bg_color=262624&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats-weld-delta-93.vercel.app/api/top-langs/?username=tirthdhedhi&layout=compact&langs_count=8&hide_border=true&title_color=CC785C&text_color=F0EEE6&bg_color=262624&card_width=500" alt="top langs" />
 
 <!-- ===== PHASE 3: SNAKE (uncomment after the Action runs green) =====
 <picture>
