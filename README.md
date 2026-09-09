@@ -11,7 +11,7 @@
   [ ] Phase 4: fill in email / instagram if you want those badges
 -->
 
-<!-- ===== PHASE 1: BANNER (add once dark.svg/light.svg exist) =====
+<!-- ===== PHASE 1: BANNER (add once dark.svg/light.svg exist) ===== -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/tirthdhedhi/tirthdhedhi/main/dark.svg">
@@ -19,7 +19,6 @@
     srcset="https://raw.githubusercontent.com/tirthdhedhi/tirthdhedhi/main/light.svg">
   <img alt="Tirth Dhedhi" src="https://raw.githubusercontent.com/tirthdhedhi/tirthdhedhi/main/light.svg">
 </picture>
--->
 
 <div align="center">
 
